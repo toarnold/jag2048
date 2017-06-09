@@ -1,0 +1,22 @@
+{
+  "name": "jag2048",
+  "version": "1.0.1",
+  "description": "A 2048 game for the ATARI Jaguar",
+  "main": "jag2048.jag",
+  "author": {
+    "name": "Tobias Arnold",
+    "email": "toarnold@web.de"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jimp": "^0.2.28",
+    "replace-ext": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/jag2048.git"
+  }
+}
