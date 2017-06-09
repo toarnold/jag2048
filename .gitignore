@@ -1,0 +1,5 @@
+.vscode/
+node_modules/
+*.o
+*.raw
+*.clut
